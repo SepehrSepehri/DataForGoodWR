@@ -22,13 +22,11 @@ The techniques we will teach include
 
 # C. Prerequisites
 ## C1. Twitter API setup 
-The following are helpful but not necessary to today's tutorial:
-<ol>
-  <li>a Gmail account</li>
-  <li>a Twitter account</li>
-  <li>Python experience</li>
-</ol>
+We will use Twitter's official API to scrape their data. 
 
+You will need a Twitter account for this. 
+
+Please set up the API as shown in this <a href="https://www.youtube.com/watch?v=xt7zKW41IBU">video</a>.  
 
 # D. Optional Pre-tutorial step if you don't have a Gmail account 
 ## D1. Packages to install 
