@@ -9,19 +9,42 @@ The DFG "Social Media Study" series consists of multiple meetups conducted over 
 # B. Today's event
 Today is the first event of the series, where we introduce the audience to some social media mining tools & techniques that they can use / build on to analyze nonprofit's Twitter data. 
 
-This will be an interactive tutorial event. The audience will do as the instructor does. We will pause for questions at suitable times as well as answer them via chat. Please ensure you can access this Github link to the tutorial data & code.
+This will be an interactive tutorial event. The audience will do as the instructor does. We will pause for questions at suitable times as well as answer them via chat. Please ensure you can access this <a href="https://github.com/SepehrSepehri/DataForGoodWR/blob/main/DataForGood_v4_.ipynb">Github link</a> to the tutorial data & code.
 
-The techniques we will teach include:
-<ol>scraping Twitter timeline data 
-common text cleaning methods 
-common text EDA 
-topic modeling 
+The techniques we will teach include
+<ol>
+  <li>scraping Twitter timeline data</li>
+  <li>common text cleaning methods</li>
+  <li>common text EDA</li>
+  <li>sentiment analysis</li>
+  <li>topic modeling</li>
+</ol>
 
 # C. Prerequisites
+
+
+## Twitter API setup 
 The following are helpful but not necessary to today's tutorial:
 a Gmail account
 a Twitter account
 Python experience
+
+# Optional Pre-tutorial step if you don't have a Gmail account 
+## Packages to install 
+We strongly recommend having a Gmail account since we will show you how to use Google Colab to run the iPython notebook. 
+
+However, if you are a Python veteran who prefers using Jupyter, please install the following packages using pip / conda / apt / whichever installer you use with your Jupyter: 
+<ol>
+  <li>pip install tweepy</li>
+  <li>pip install pandas</li>
+  <li>pip install matplotlib</li>
+  <li>pip install numpy</li>
+  <li>pip install nltk</li>
+  <li>pip install scikit-learn</li>
+  <li>pip install wordcloud</li>
+  <li>pip install textblob</li>
+  <li>pip install gensim</li>
+</ol>
 
 # D. Who are we?
 The following DFG volunteers will conduct this event: 
