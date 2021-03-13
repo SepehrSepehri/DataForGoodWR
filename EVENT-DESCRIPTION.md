@@ -21,16 +21,17 @@ The techniques we will teach include
 </ol>
 
 # C. Prerequisites
-
-
-## Twitter API setup 
+## C1. Twitter API setup 
 The following are helpful but not necessary to today's tutorial:
-a Gmail account
-a Twitter account
-Python experience
+<ol>
+  <li>a Gmail account</li>
+  <li>a Twitter account</li>
+  <li>Python experience</li>
+</ol>
 
-# Optional Pre-tutorial step if you don't have a Gmail account 
-## Packages to install 
+
+# D. Optional Pre-tutorial step if you don't have a Gmail account 
+## D1. Packages to install 
 We strongly recommend having a Gmail account since we will show you how to use Google Colab to run the iPython notebook. 
 
 However, if you are a Python veteran who prefers using Jupyter, please install the following packages using pip / conda / apt / whichever installer you use with your Jupyter: 
@@ -46,20 +47,26 @@ However, if you are a Python veteran who prefers using Jupyter, please install t
   <li>pip install gensim</li>
 </ol>
 
-# D. Who are we?
+# E. Who are we?
 The following DFG volunteers will conduct this event: 
-Joseph Mwangoka
-https://www.linkedin.com/in/joseph-mwangoka/
-Joe is works in Fraud Analytics for Manulife. He has also earned a PhD, worked in big data analytics, software development, and as a lecturer.
-Abeer Khan
-https://www.linkedin.com/in/abeerkhan96/
-Experienced in text mining, social media mining, and currently works as a software developer & in devops.
-Sumit Sharma
-https://www.linkedin.com/in/sumitsharma8692/
-Sumit is certified & experienced with data analysis, business, management sciences, and devops.
-Rameez Syed
-https://www.linkedin.com/in/rameez-syed-a42756139/
-Rameez is a Laurier graduate, current Bioinformatics Analyst at Queen's University with experience in Twitter Sentiment Analysis.
-Sepehr Sepehri
-https://www.linkedin.com/in/sepehr-sepehri/
-Sepehr has earned degrees in business & engineering, as well as experience in business & data analysis. 
+<ol>
+  <li>Joseph Mwangoka - <a href="https://www.linkedin.com/in/joseph-mwangoka/">LinkedIn</a>
+  <br>Joe is works in Fraud Analytics for Manulife. He has also earned a PhD, worked in big data analytics, software development, and as a lecturer.
+  </li>
+  
+  <li>Abeer Khan  - <a href="https://www.linkedin.com/in/abeerkhan96/">LinkedIn</a> 
+  <br>Experienced in text mining, social media mining, and currently works as a software developer & in devops.
+  </li>
+
+  <li>Sumit Sharma - <a href="https://www.linkedin.com/in/sumitsharma8692/">LinkedIn</a> 
+  <br>Sumit is certified & experienced with data analysis, business, management sciences, and devops.
+  </li>
+
+  <li>Rameez Syed - <a href="https://www.linkedin.com/in/rameez-syed-a42756139/">LinkedIn</a> 
+  <br>Rameez is a Laurier graduate, current Bioinformatics Analyst at Queen's University with experience in Twitter Sentiment Analysis.
+  </li>
+
+  <li>Sepehr Sepehri - <a href="https://www.linkedin.com/in/sepehr-sepehri/">LinkedIn</a> 
+  <br>Sepehr has earned degrees in business & engineering, as well as experience in business & data analysis. 
+  </li>
+</ol>
