@@ -14,8 +14,8 @@ This will be an interactive tutorial event. The audience will do as the instruct
 The techniques we will teach include
 <ol>
   <li>scraping Twitter timeline data</li>
-  <li>common text cleaning methods</li>
-  <li>common text EDA</li>
+  <li>common text cleaning methods (e.g. lemmatize, stem, ...)</li>
+  <li>common text EDA (e.g. word frequency, word cloud, ...)</li>
   <li>sentiment analysis</li>
   <li>topic modeling</li>
 </ol>
