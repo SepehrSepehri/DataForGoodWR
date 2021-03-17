@@ -28,6 +28,8 @@ You will need a Twitter account for this.
 
 Please set up the API as shown in this <a href="https://www.youtube.com/watch?v=xt7zKW41IBU">video</a>.  
 
+You can also check out the screenshots in Section 1-1- Accessing Web APIs of <a href="https://github.com/SepehrSepehri/DataForGoodWR/blob/main/DataForGood_v4_.ipynb">this</a> notebook. 
+
 # D. Optional (read only if you don't have a Gmail account)
 ## Packages to install 
 We strongly recommend having a Gmail account since we will show you how to use Google Colab to run the iPython notebook. 
