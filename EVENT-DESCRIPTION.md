@@ -20,7 +20,7 @@ The techniques we will teach include
   <li>topic modeling</li>
 </ol>
 
-# C. Prerequisite
+# C. Prerequisite (but don't worry, we have a backup plan if you can't do this!)
 ## Twitter API setup 
 We will use Twitter's official API to scrape their data. 
 
